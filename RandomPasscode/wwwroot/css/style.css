@@ -1,0 +1,40 @@
+.survey-form {
+    width: 40%;
+    border: 2px solid black;
+    margin: 2% auto;
+    padding: 2%;
+}
+
+.survey {
+    width: 40%;
+    border: 2px solid black;
+    margin: 2% auto;
+    padding: 2%;
+}
+
+.username {
+    float: right;
+}
+
+.submit-survey {
+    height: 1rem;
+}
+
+.submit-button {
+    height: 1rem;
+}
+
+.survey-title {
+    text-decoration: underline;
+    margin-bottom: 1rem;
+}
+
+.back-button {
+    margin-top: 1rem;
+    height: 1rem;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.8rem;
+}
